@@ -1,16 +1,9 @@
 # marvel_api_app
 
-A new Flutter project.
+Este APP foi desenvolvido com o framework Flutter e consome API da Marvel.
+Para gerenciamento de estado foi utilizado o BloC.
 
-## Getting Started
+## Inspirações
 
-This project is a starting point for a Flutter application.
+- [Canal do YouTube - O programador](https://www.youtube.com/user/ThePapibaquigrafo)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
